@@ -3,7 +3,7 @@
 
 
 
-if game.Players.LocalPlayer.Name == 'HotCatOnMyLegs' then
+if game.Players.LocalPlayer.Name == 'CaitlinSosa32' then
 	print("Whitelisted")
 end
 
